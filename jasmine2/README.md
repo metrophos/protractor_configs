@@ -20,7 +20,7 @@ Following features are implemented:
 There are to possible ways to run your protractor test.
 
 Start protractor directly with nodeJs:
-`node node_modules/protractor/lib/cli.js protractor_config.js`
+`node node_modules/protractor/lib/cli.js protractor-config.js`
 
 If you have Protractor installed globally you can use this command:
-`protractor protractor_config.js`
+`protractor protractor-config.js`
