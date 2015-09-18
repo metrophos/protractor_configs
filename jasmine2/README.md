@@ -8,12 +8,14 @@ Following features are implemented:
 * Automatic chrome driver OS selection and binary download
 * Automatic selenium server jar download
 
-#Installation & Run
+##Installation & Run
 
 * NodeJs must be installed first. https://nodejs.org
 * Download project and extract it. https://github.com/metrophos/protractor_configs
 * Open a terminal and switch into the project jasmine2 folder.
 * run `npm install`
+
+##Run
 
 There are to possible ways to run your protractor test.
 
