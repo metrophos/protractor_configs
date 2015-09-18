@@ -1,0 +1,16 @@
+{
+  "name": "protractor-config-jasmine2",
+  "version": "1.0.0",
+  "description": "Protractor with Jasmine2",
+  "author": "Daniel Schwab",
+  "license": "MIT",
+  "scripts": {
+    "install": "node selenium/get-binaries.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "jasmine-reporters": "^2.0.7",
+    "protractor": "^2.2.0",
+    "q": "^1.4.1"
+  }
+}
