@@ -17,10 +17,10 @@ Following features are implemented:
 
 ##Run
 
-There are to possible ways to run your protractor test.
+There are two possible ways to run your protractor test.
 
 Start protractor directly with nodeJs:
 `node node_modules/protractor/lib/cli.js protractor-config.js`
 
-If you have Protractor installed globally you can use this command:
+If you have Protractor installed globally you can use:
 `protractor protractor-config.js`
